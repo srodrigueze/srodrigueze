@@ -14,6 +14,7 @@
 </h1>
 <img src="https://komarev.com/ghpvc/?username=srodrigueze&style=flat-square&color=green" alt=""/>
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -40,8 +41,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srodrigueze&theme=dark)](https://git.io/streak-stats)
-<br></br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srodrigueze&theme=dark)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srodrigueze&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
