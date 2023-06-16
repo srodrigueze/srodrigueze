@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align ="center">
   <a href="https://www.linkedin.com/in/santiago-rodriguez-514410264/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -40,12 +40,9 @@
 ---
 
 ### :fire: My Stats :
-<div>
-  http://github-readme-streak-stats.herokuapp.com?user=srodrigueze&theme=dark&background=000000
-</div>
-<div>
-  https://github-readme-stats.vercel.app/api/top-langs/?username=srodrigueze&layout=compact&theme=vision-friendly-dark
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srodrigueze&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **srodrigueze/srodrigueze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
