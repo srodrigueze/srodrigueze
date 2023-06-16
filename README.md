@@ -12,8 +12,10 @@
    Hi, my name is Santiago Rodriguez Echeverri 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<img src="https://komarev.com/ghpvc/?username=srodrigueze&style=flat-square&color=green" alt=""/>
-
+<h2>
+  - I like to learn new languages and to use different frameworks.
+  <img src="https://komarev.com/ghpvc/?username=srodrigueze&style=flat-square&color=green" alt=""/>
+</h2>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
