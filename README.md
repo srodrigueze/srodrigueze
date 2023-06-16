@@ -16,7 +16,6 @@
   - I like to learn new languages and to use different frameworks.
   <img src="https://komarev.com/ghpvc/?username=srodrigueze&style=flat-square&color=green" alt=""/>
 </h2>
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
