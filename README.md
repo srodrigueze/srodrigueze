@@ -7,13 +7,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
----
+
 <h1>
    Hi, my name is Santiago Rodriguez Echeverri 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <img src="https://komarev.com/ghpvc/?username=srodrigueze&style=flat-square&color=green" alt=""/>
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -37,7 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srodrigueze&theme=dark)](https://git.io/streak-stats)
