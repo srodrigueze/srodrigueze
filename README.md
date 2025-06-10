@@ -13,8 +13,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2>
-  - I like to learn new languages and to use different frameworks.
-  <img src="https://komarev.com/ghpvc/?username=srodrigueze&style=flat-square&color=green" alt=""/>
+  I enjoy learning new languages and utilizing various frameworks.
 </h2>
 
 ### :hammer_and_wrench: Languages and Tools :
